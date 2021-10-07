@@ -3324,7 +3324,6 @@ _active - открытый аккордеон
 
   .menu__link:hover {
     color: #ff4f4c;
-    cursor: url(../img/i-icon/cursor.svg), pointer;
   }
 
   .top-header__menu .menu__body {
